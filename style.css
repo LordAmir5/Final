@@ -1,5 +1,5 @@
 body{
-    background-color: 
+    background-color: rgba(170,157,255,1);
     }
 .bigpart{
     background-color: rgba(35,28,45,0.899);
@@ -9,4 +9,11 @@ body{
     width: 480px;
     border-radius: 30px;
     box-shadow: rgba(0,00,0,.8);
+    color: seashell;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
 }
+.bottom{
+    display: inline;
+}
+.right{margin-right: 50px;}
